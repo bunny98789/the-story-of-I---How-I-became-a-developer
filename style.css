@@ -209,7 +209,7 @@ code {
     color: var(--text-strong);
 }
 
-.epilogue p:last-child::after {
+.cursor-line::after {
     content: "";
     display: inline-block;
     width: 0.55em;
